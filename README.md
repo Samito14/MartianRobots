@@ -10,5 +10,4 @@ Existen 4 ficheros de pruebas
 - Error2.txt: prueba de que no se permiten coordenadas del marciano mayor a 50
 - Error3.txt: prueba de que no se permiten mas de 100 movimientos por cada fantasma
 
-Por último un ejemplo de ejecución
-node main.js sample.txt
+Por último un ejemplo de ejecución es el siguiente: node main.js sample.txt
